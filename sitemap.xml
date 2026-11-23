@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <!-- 部署後將「你的帳號」換成 GitHub 使用者名稱 -->
-  <url><loc>https://你的帳號.github.io/foodpanda-recruit/</loc></url>
+  <url>
+    <loc>https://sube79.github.io/foodpanda-recruit/</loc>
+  </url>
 </urlset>
