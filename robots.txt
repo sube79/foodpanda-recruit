@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-# 部署後可在此新增 Sitemap: https://你的帳號.github.io/foodpanda-recruit/sitemap.xml
+# 部署後可在此新增 Sitemap: https://sube79.github.io/foodpanda-recruit/sitemap.xml
